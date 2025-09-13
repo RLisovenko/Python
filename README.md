@@ -10,7 +10,10 @@ It includes simple and clear examples demonstrating:
 - small algorithms and utilities.
 
 ### 📂 Project List  
-- 🔗 [Calculator](https://github.com/RLisovenko/Python/tree/main/calculator) — simple console calculator.  
-- 🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/main/csv_reader) — read and process CSV files.  
-- 🔗 [Text Parser](https://github.com/RLisovenko/Python/tree/main/text_parser) — extract and analyze text data.  
-- 🔗 [Number Guess Game](https://github.com/RLisovenko/Python/tree/main/guess_game) — small interactive game.  
+- simple-programs / Python syntax basics
+  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/main/csv_reader) — read and process CSV files.
+- data and files
+  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/main/csv_reader) — read and process CSV files.  
+- advanced-programs
+  -  🔗 [Text Parser](https://github.com/RLisovenko/Python/tree/main/text_parser) — extract and analyze text data.  
+
