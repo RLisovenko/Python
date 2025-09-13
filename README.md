@@ -1,4 +1,4 @@
-## 🐍 Python Projects by RLisovenko
+## 🐍 Python Projects
 
 This section is dedicated to small Python programs.
 It includes simple and clear examples demonstrating:
