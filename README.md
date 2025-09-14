@@ -11,8 +11,8 @@ It includes simple and clear examples demonstrating:
 
 ### 📂 Project List  
 - simple-programs  
-  -  🔗 [simple](https://github.com/RLisovenko/Python/tree/simple#) — Python syntax basics
-- data and files
+  -  🔗 [simple](https://github.com/RLisovenko/Python/tree/simple#) — Python syntax and basics
+- data and files (libraries Pandas,....)
   -  🔗 [Data Analytics](https://github.com/RLisovenko/Python/tree/data_files) — pandas Tasks exercise for Data Analytics .
   -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/data_files) — read and process CSV files.
 - advanced-programs (beautifulsoup4, Selenium , Flask)
