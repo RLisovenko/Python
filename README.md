@@ -1,19 +1,16 @@
-## 🐍 Python Projects
+## 🐍 Data Files Projects
 
-This section is dedicated to small Python programs.
-It includes simple and clear examples demonstrating:
+This section is dedicated  Python programs with data.
+It includes  examples demonstrating:
 
-- Python syntax basics,
+- Pandas,
 
-- working with data and files,
+- CSV Reader,
 
-- small algorithms and utilities.
 
 ### 📂 Project List  
-- simple-programs / Python syntax basics
+- Data Analytics - pandas Tasks
+  -  🔗 [panadas](https://github.com/RLisovenko/Python/tree/Pandas) — Data Analytics - pandas Tasks.
+- Files Reader
   -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/main/csv_reader) — read and process CSV files.
-- data and files
-  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/main/csv_reader) — read and process CSV files.  
-- advanced-programs
-  -  🔗 [Text Parser](https://github.com/RLisovenko/Python/tree/main/text_parser) — extract and analyze text data.  
 
