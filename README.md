@@ -3,9 +3,9 @@
 This section is dedicated  Python programs with data.
 It includes  examples demonstrating:
 
-- Pandas,
+- Data Analytics
 
-- CSV Reader,
+- File Reader,
 
 
 ### 📂 Project List  
