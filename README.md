@@ -14,7 +14,7 @@ The parser works with single URLs or a list of URLs . Extracted text is compared
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies &  Python libraries 
 - **Python 3.x**  
 - **requests** – for HTTP requests  
 - **beautifulsoup4** – for parsing HTML  
