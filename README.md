@@ -1,19 +1,11 @@
-## 🐍 Python Projects
+## Advanced Python Projects
 
-This section is dedicated to small Python programs.
-It includes simple and clear examples demonstrating:
+This section is dedicated to Python programs, it includes simple and clear examples demonstrating work:
 
-- Python syntax basics,
+- TXT Parser of WebSite
 
-- working with data and files,
-
-- small algorithms and utilities.
+- Creating a simple website based on the FLASK library
 
 ### 📂 Project List  
-- simple-programs / Python syntax basics
-  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/main/csv_reader) — read and process CSV files.
-- data and files
-  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/main/csv_reader) — read and process CSV files.  
-- advanced-programs
-  -  🔗 [Text Parser](https://github.com/RLisovenko/Python/tree/main/text_parser) — extract and analyze text data.  
-
+  -  🔗 [TXT PARSER](https://github.com/RLisovenko/Python/tree/main/txt_parser) — Creating a simple website based on the FLASK library.
+  -  🔗 [FLASK](https://github.com/RLisovenko/Python/tree/main/flask) — Creating a simple website based on the FLASK library.
