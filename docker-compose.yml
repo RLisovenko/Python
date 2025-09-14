@@ -1,0 +1,26 @@
+version: "5"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    #command: tail -f /dev/null #test mode
+    command: 
+      - '/bin/sh'
+      - '-c'
+      - '/bin/sleep 10 && python scraper.py -d selenium'    
+      #- COPY test_example/* ./test_example
+    depends_on:
+      - selenium
+    networks:
+      - app-network  
+  selenium: 
+    image: selenium/standalone-chrome:latest
+    ports:
+      - 4444:4444
+      - 7900:7900
+    networks:
+      - app-network
+networks:
+    app-network:
