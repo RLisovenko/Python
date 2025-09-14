@@ -1,13 +1,13 @@
 # 📊 Data Analytics — pandas Tasks
 
-This repository contains exercises for **Data Analytics (pb) course**, focusing on practical tasks using **Python** and **pandas**.  
+This repository contains for **Data Analytics (pb) course**, focusing on practical tasks using **Python** and **pandas**.  
 
 ---
 
 ## 🔎 Overview
 
-This exercise will introduce you to the world of data analytics and common Python packages such as pandas.
-The goal is to show you the basics of Python and how to apply them to data-driven problems.
+- This  will introduce you to the world of data analytics and common Python packages such as pandas.
+- The goal is to show you the basics of Python and how to apply them to data-driven problems.
 
 ---
 
