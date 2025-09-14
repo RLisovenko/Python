@@ -27,3 +27,5 @@ Each project focuses on basic Python skills, problem-solving, and fundamental al
 
 Each project contains **Python code** and can be run independently.  
 These exercises use basic algorithms in Python.
+  - Python
+    -  🔗 [Python](https://github.com/RLisovenko/Python)
