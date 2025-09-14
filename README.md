@@ -39,3 +39,6 @@ Below are some problems solved using **Python and pandas**:
 ---
 
 🚀 These tasks demonstrate practical experience  in **data wrangling, querying, and analysis with pandas**.
+
+- Python
+    -  🔗 [Python](https://github.com/RLisovenko/Python)
