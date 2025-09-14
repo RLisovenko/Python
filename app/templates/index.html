@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block content %}
+	<div class="card-body text-center">
+		<h5 class="card-title">Index Page</h5>
+		<p class="card-text">
+			Hi, {{user}}
+
+		<p>
+			{{ data|safe }}
+
+		</p>		
+		</p>
+	</div>
+{% endblock %}
