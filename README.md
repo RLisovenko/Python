@@ -5,7 +5,11 @@ This section is dedicated to Python programs, it includes simple  examples demon
 - flask_test  simple test application of the basic concepts of work
 
 ### 📂 Project List 
+
+  - test App
+    -  🔗 [Test App](https://github.com/RLisovenko/Python/tree/flask_test_App) — Creating a simple TEST website based on the FLASK library 
   - Library "FLASK"
     -  🔗 [ToDo App](https://github.com/RLisovenko/Python/tree/flask_To_Do_App) — Creating a simple website based on the FLASK library + Data Analytics - ToDo App
-  - Libraries: "beautifulsoup4, Selenium"
-    -  🔗 [TXT PARSER](https://github.com/RLisovenko/Python/tree/TXT_PARSER) — TXT Parser of WebSite (https://leetcode.com/RL_ukr)
+      
+  - Python
+    -  🔗 [Python](https://github.com/RLisovenko/Python)
