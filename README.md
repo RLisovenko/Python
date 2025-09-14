@@ -10,4 +10,4 @@ This section is dedicated to Python programs, it includes simple and clear examp
   - Libraries: "beautifulsoup4, Selenium"
     -  🔗 [TXT PARSER](https://github.com/RLisovenko/Python/tree/TXT_PARSER) — TXT Parser of WebSite (https://leetcode.com/RL_ukr)
   - Library "FLASK"
-  -  🔗 [FLASK](https://github.com/RLisovenko/Python/tree/FLASK) — Creating a simple website based on the FLASK library + Data Analytics - ToDo App 
+    -  🔗 [FLASK](https://github.com/RLisovenko/Python/tree/FLASK) — Creating a simple website based on the FLASK library + Data Analytics - ToDo App 
