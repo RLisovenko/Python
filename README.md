@@ -30,7 +30,7 @@ python leetcode_parser.py scrape --json-file your_json_file.json
 ```
 
 ### 📂 Any Project List 
-  - Library FLASK
-    -  🔗 [ToDo App](https://github.com/RLisovenko/Python/tree/main/flask) — Creating a simple website based on the FLASK library + Data Analytics - ToDo App
+  - Any Advanced Lib
+    -  🔗 [Any Advanced Lib](https://github.com/RLisovenko/Python/tree/FLASK)
   - Python
     -  🔗 [Python](https://github.com/RLisovenko/Python)
