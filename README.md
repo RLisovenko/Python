@@ -1,4 +1,4 @@
-## Advanced Python Projects
+## Advanced Python Projects (FLASK & To_Do_APP)
 
 This section is dedicated to Python programs, it includes simple and clear examples demonstrating work:
 
@@ -6,6 +6,6 @@ This section is dedicated to Python programs, it includes simple and clear examp
 
 ### 📂 Project List 
   - ANY Advanced Python LIB
-    -  🔗 [ANY Advanced](https://github.com/RLisovenko/Python/tree/main/txt_parser)
+    -  🔗 [ANY Advanced](https://github.com/RLisovenko/Python/tree/TXT_PARSER)
   - Python
     -  🔗 [Python](https://github.com/RLisovenko/Python) 
