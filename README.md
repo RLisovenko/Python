@@ -5,12 +5,12 @@ It includes  examples demonstrating:
 
 - Data Analytics
 
-- File Reader,
+- File Reader
 
 
 ### 📂 Project List  
 - Data Analytics - pandas Tasks
   -  🔗 [panadas](https://github.com/RLisovenko/Python/tree/Pandas) — Data Analytics - pandas Tasks.
 - Files Reader
-  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/main/csv_reader) — read and process CSV files.
+  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/data_files) — read and process CSV files.
 
