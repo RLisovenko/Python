@@ -13,7 +13,8 @@ It includes simple and clear examples demonstrating:
 - simple-programs  
   -  🔗 [simple](https://github.com/RLisovenko/Python/tree/simple#) — Python syntax basics
 - data and files
-  -  🔗 [Data Reader](https://github.com/RLisovenko/Python/tree/data_files) — read and process CSV files.  
+  -  🔗 [Data Analytics](https://github.com/RLisovenko/Python/tree/data_files) — pandas Tasks exercise for Data Analytics .
+  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/data_files) — read and process CSV files.
 - advanced-programs
-  -  🔗 [Text Parser](https://github.com/RLisovenko/Python/tree/advanced) — extract and analyze text data.  
+  -  🔗 [Text Parser](https://github.com/RLisovenko/Python/tree/advanced) — extract and analyze text data from WWW.  
 
