@@ -215,7 +215,7 @@ if __name__ == "__main__":
         
         print(7*"*******Begin")     
         print("numer von Aufgabe or Task ist {9,7,869,383,168,326,13,3,20,434,125,136,169,202,205}")   
-        iTaskNummer = input("Enter bitte nur numer von Aufgabe\Task nur als integer oder 0 als exit: ").lower()
+        iTaskNummer = input("Enter bitte nur numer von Aufgabe or Task nur als integer oder 0 als exit: ").lower()
         match iTaskNummer:
             case 'exit':
                 break
