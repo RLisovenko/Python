@@ -1,0 +1,21 @@
+name: Docker CI
+
+on:
+  push:
+    branches: [ simple ]
+  pull_request:
+    branches: [ simple ]
+
+jobs:
+  docker-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build -t simply_python .
+
+      - name: Run smoke test
+        run: printf "0\n" | docker run --rm -i simply_python
