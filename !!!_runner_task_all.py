@@ -205,6 +205,11 @@ def task_205_isomorphic_strings():
 #------------------------------------------------------------
 
 if __name__ == "__main__":
+    print("=" * 27)
+    print("Author :", os.getenv("AUTHOR_NAME"))
+    print("Project:", os.getenv("PROJECT_NAME"))
+    print("Version:", os.getenv("PROJECT_VERSION"))
+    print("=" * 27)
 
     while True:
         
