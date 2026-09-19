@@ -1,19 +1,32 @@
-## 🐍 Python Projects
+# Python Project for Data Science
 
-This section is dedicated to small Python programs.
-It includes simple and clear examples demonstrating:
+Educational repository containing practical Python and Jupyter Notebook work completed as part of the IBM **Python Project for Data Science** course on Coursera.
 
-- Python syntax basics,
+## Course Information
 
-- working with data and files,
+- **Course:** Python Project for Data Science
+- **Platform:** 
+- **Completed by:** Ruslan Lisovenko
+- **Completed:** January 12, 2026
+- **Repository:** Practical Python exercises, Jupyter notebooks, and data analysis work completed during the course
+- **Certificate:** [View IBM / Coursera Certificate](docs/Python_Data_Science_Certificate.pdf) · [Verify](https://coursera.org/verify/7BWLGQVD8W65)
 
-- small algorithms and utilities.
+## Repository Purpose
 
-### 📂 Project List  
-- simple-programs  
-  -  🔗 [simple](https://github.com/RLisovenko/Python/tree/simple#) — Python syntax and basics
-- data and files (libraries Pandas,....)
-  -  🔗 [Data Analytics](https://github.com/RLisovenko/Python/tree/data_files) — pandas Tasks exercise for Data Analytics .
-  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/data_files) — read and process CSV files.
-- advanced-programs (beautifulsoup4, Selenium , Flask)
-  -  🔗 [Text Parser & FLASK](https://github.com/RLisovenko/Python/tree/advanced) — extract and analyze text data from WWW and creating WebSite with lib FLASK  
+This repository contains practical work from the course and demonstrates the use of Python and Jupyter Notebook for data-oriented tasks and project-based learning.
+
+It is part of my continuing development in **Python, Data Science, Data Engineering, and Backend Development**.
+
+## Technologies
+
+- Python
+- Jupyter Notebook
+- Data analysis tools and libraries used in the course
+
+## Course
+
+**IBM — Python Project for Data Science**  
+
+---
+
+*Educational and practice repository.*
