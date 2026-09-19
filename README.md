@@ -8,7 +8,7 @@ Educational repository containing practical Python exercises and Jupyter Noteboo
 - **Completed by:** Ruslan Lisovenko
 - **Completed:** January 4, 2026
 - **Repository:** Practical Python exercises, notebooks, and data-oriented development work completed during the course
-- **Certificate:** [View Certificate](docs/PythonDataScience_AI_Development.pdf) · [Verify](https://coursera.org/verify/TMXVQG6AQ8Q9)
+- **Certificate:** [View Certificate](docs/IBM_Python_DataScience_AI_Development_Certificate_2026-01-04.pdf) · [Verify](https://coursera.org/verify/TMXVQG6AQ8Q9)
 
 ## Topics
 
