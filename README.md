@@ -1,19 +1,32 @@
-## 🐍 Python Projects
+# Python for Data Science, AI & Development
 
-This section is dedicated to small Python programs.
-It includes simple and clear examples demonstrating:
+Educational repository containing practical Python exercises and Jupyter Notebook work completed as part of the IBM **Python for Data Science, AI & Development** course.
 
-- Python syntax basics,
+## Course Information
 
-- working with data and files,
+- **Course:** IBM — Python for Data Science, AI & Development
+- **Completed by:** Ruslan Lisovenko
+- **Completed:** January 4, 2026
+- **Repository:** Practical Python exercises, notebooks, and data-oriented development work completed during the course
+- **Certificate:** [View Certificate](docs/IBM_Python_DataScience_AI_Development_Certificate_2026-01-04.pdf) · [Verify](https://coursera.org/verify/TMXVQG6AQ8Q9)
 
-- small algorithms and utilities.
+## Topics
 
-### 📂 Project List  
-- simple-programs  
-  -  🔗 [simple](https://github.com/RLisovenko/Python/tree/simple#) — Python syntax and basics
-- data and files (libraries Pandas,....)
-  -  🔗 [Data Analytics](https://github.com/RLisovenko/Python/tree/data_files) — pandas Tasks exercise for Data Analytics .
-  -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/data_files) — read and process CSV files.
-- advanced-programs (beautifulsoup4, Selenium , Flask)
-  -  🔗 [Text Parser & FLASK](https://github.com/RLisovenko/Python/tree/advanced) — extract and analyze text data from WWW and creating WebSite with lib FLASK  
+- Python fundamentals
+- Data structures
+- Functions
+- Object-oriented programming
+- Working with files
+- Data handling with Python
+- NumPy
+- Pandas
+- APIs and web data
+- Jupyter Notebook
+
+## Repository Purpose
+
+This repository contains practical work completed during the course and demonstrates foundational Python skills used in **Data Science, Data Engineering, AI, and Backend Development**.
+
+---
+
+*Educational and practice repository.*
