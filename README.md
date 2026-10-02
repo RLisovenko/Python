@@ -16,4 +16,6 @@ It includes simple and clear examples demonstrating:
   -  🔗 [Data Analytics](https://github.com/RLisovenko/Python/tree/data_files) — pandas Tasks exercise for Data Analytics .
   -  🔗 [CSV Reader](https://github.com/RLisovenko/Python/tree/data_files) — read and process CSV files.
 - advanced-programs (beautifulsoup4, Selenium , Flask)
-  -  🔗 [Text Parser & FLASK](https://github.com/RLisovenko/Python/tree/advanced) — extract and analyze text data from WWW and creating WebSite with lib FLASK  
+  -  🔗 [Text Parser & FLASK](https://github.com/RLisovenko/Python/tree/advanced) — extract and analyze text data from WWW and creating WebSite with lib FLASK
+- education / data science
+  - 🔗 [Data Science](https://github.com/RLisovenko/Python/tree/Python/edu/DataScience) — Educational exercises and practical tasks with Python, pandas, SQL, data analysis, and Jupyter notebooks.  
